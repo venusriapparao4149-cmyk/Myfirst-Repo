@@ -1,4 +1,2 @@
 I am Master
-Login
-Payment
-Google Pay
+Comment
